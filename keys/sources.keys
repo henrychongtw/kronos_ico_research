@@ -1,0 +1,92 @@
+source_key,source_name,website,name
+1,BINANCE,https://www.binance.com/,Binance
+2,COINBASE,https://www.gdax.com/,GDAX
+3,BITSTAMP,https://www.bitstamp.net/,Bitstamp Ltd.
+4,OKCOIN_CNY,https://www.okcoin.cn/,OKCoin CNY
+5,BITTREX,https://bittrex.com/,Bittrex
+6,POLONIEX,https://poloniex.com/,POLONIEX
+7,BITFINEX,https://www.bitfinex.com/,Bitfinex
+8,KRAKEN,https://www.kraken.com/,Kraken
+9,HUOBIPRO,https://www.huobi.pro/,Huobi Pro
+10,HITBTC,https://hitbtc.com/,HitBTC
+11,BTCCHINA,https://www.btcchina.com/,BTCCHINA
+12,BITHUMB,https://www.bithumb.com/,BITHUMB
+13,COINONE,https://coinone.co.kr/,coinone
+14,OKEX,https://www.okex.com/,OKEx
+15,OKCOIN_USD,https://www.okcoin.com/,OKCoin USD
+16,BTCTRADE,https://www.btctrade.com/,BTCTRADE
+17,BITMEX,https://www.bitmex.com/,BitMEX
+18,GEMINI,https://gemini.com/,Gemini
+19,ITBIT,https://www.itbit.com/,itBit
+20,HUOBI,https://www.huobi.com/,Huobi
+21,CRYPTOPIA,https://www.cryptopia.co.nz/,Cryptopia
+22,BTC-E,https://btc-e.com/,BTC-e
+23,COINCHECK,https://coincheck.com/,coincheck
+24,LIQUI,https://liqui.io/,Liqui
+25,EXMO,https://exmo.com/,EXMO
+26,YOBIT,https://yobit.net/en/,YObit
+27,BITFLYER,https://bitflyer.jp/,bitFlyer
+28,ZAIF,https://zaif.jp/,Zaif
+29,KORBIT,https://www.korbit.co.kr,Korbit
+30,GATEIO,https://gate.io/,Gate.io
+31,BTC38,http://www.btc38.com,BTC38
+32,MTGOX,https://www.mtgox.com/,mtgox
+33,WEXNZ,https://wex.nz/,WexNz
+34,KUCOIN,https://kucoin.com/,Kucoin
+35,LAKEBTC,https://www.lakebtc.com/,LakeBTC
+36,BLEUTRADE,https://bleutrade.com,Bleutrade
+37,BITCOINID,https://indodax.com/,Indodax
+38,QUOINE,https://www.qryptos.com/,QRYPTOS
+39,TIDEX,https://tidex.com/,Tidex
+40,ACX,https://acx.io/,ACX
+41,BITSO,https://bitso.com/,Bitso
+42,LIVECOIN,https://www.livecoin.net/,LiveCoin
+43,MIXCOINS,https://mixcoins.com/,MixCoins
+44,VIRWOX,https://www.virwox.com/,BirWoX
+45,BTER,https://bter.com/,Bter
+46,MERCADOBITCOIN,https://www.mercadobitcoin.com.br/,Mercado Bitcoin
+47,COINNEST,https://www.coinnest.co.kr/,Coinnest
+48,CEXIO,https://cex.io/,CEX.IO
+49,THEROCKTRADING,https://www.therocktrading.com/,The Rock Trading LTD.
+50,DERIBIT,https://www.deribit.com/,Deribit
+51,CCEX,https://c-cex.com,c-cex
+52,QRYPTOS,https://www.qryptos.com/,QRYPTOS
+53,QUADRIGACX,https://www.quadrigacx.com/,QuadrigaCX
+54,BITMARKET,https://www.bitmarket.pl,BitMarket
+55,LUNO,https://www.luno.com,Luno
+56,BTCMARKETS,https://www.btcmarkets.net/,BTC Markets Pty Ltd.
+57,BTCBOX,https://www.btcbox.co.jp/,BtcBox
+58,GATECOIN,https://gatecoin.com/,Gatecoin
+59,ALLCOIN,https://www.allcoin.com/,Allcoin
+60,BXINTH,https://bx.in.th/,bx.in.th
+61,COINMATE,https://coinmate.io/,Coin Mate
+62,BTCTURK,https://www.btcturk.com/,BTCTurk
+63,INDEPENDENTRESERVE,https://www.independentreserve.com/,Independent Reserve
+64,COINFLOOR,https://www.coinfloor.co.uk/,coinfloor
+65,DSX,https://dsx.uk,DSX
+66,ABUCOINS,https://abucoins.com/,Abucoins
+67,SOUTHXCHANGE,https://www.southxchange.com/,SouthXchange
+68,BTCTRADEUA,https://btc-trade.com.ua/,BTC Trade UA
+69,BTCX,https://bt.cx/en/,bt.cx
+70,KUNA,https://kuna.io/,Kuna
+71,BRAZILIEX,https://braziliex.com/,Braziliex
+72,BIT2C,https://www.bit2c.co.il/,Bit2C
+73,FYBSG,https://www.fybsg.com/,FYB-SG
+74,YUNBI,https://yunbi.com/,YUNBI
+75,BITKONAN,https://bitkonan.com/,BitKonan
+76,FYBSE,https://www.fybse.se/,FYB-SE
+77,BTCC,https://www.btcc.com/,BTCC
+78,COINGI,https://coingi.com/,Coingi
+79,1BTCXE,https://1btcxe.com/,1Btcxe
+80,NOVA,https://novaexchange.com/,Novaexchange
+81,BITLISH,https://bitlish.com/,Bitlish
+82,COINSECURE,https://coinsecure.in/,Coinsecure
+83,VBTC,https://vbtc.vn/,VBTC.VN
+84,BITBAY,https://www.bitbay.net/,BitBay
+85,FOXBIT,https://foxbit.com.br/,Foxbit
+86,SURBITCOIN,https://surbitcoin.com/,SurBitcoin
+87,ANXPRO,https://anxpro.com/,ANXPro
+88,CHBTC,https://www.chbtc.com/,CHBTC
+89,COINEXCHANGE,https://www.coinexchange.io/,CoinExchange
+90,LYKKE,https://www.lykke.com/,Lykke
+91,XBTCE,https://www.xbtce.com,xBTCe
